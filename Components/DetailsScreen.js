@@ -12,7 +12,6 @@ const DetailsScreen = () => {
         Welcome to Details Screen
       </Text>
       <Text style={{ fontSize: 20, marginBottom: 10, fontWeight: '200' }}>
-        {' '}
         Name: {userName}
       </Text>
       <Text style={{ fontSize: 20, marginBottom: 10, fontWeight: '200' }}>
